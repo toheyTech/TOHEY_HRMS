@@ -10,6 +10,7 @@ namespace TOHEY.HRMS.Domain
         public string MiddleName { get; set; }
         public string LastName { get; set; }
         public string Gender { get; set; }
+        public string Gender1 { get; set; }
         public Person(TId id): base(id)
         {
             Id = Guid.NewGuid() as TId;
