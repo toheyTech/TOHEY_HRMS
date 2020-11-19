@@ -1,0 +1,8 @@
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.deps.json
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.dll
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.pdb
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.AssemblyInfo.cs
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.dll
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.pdb

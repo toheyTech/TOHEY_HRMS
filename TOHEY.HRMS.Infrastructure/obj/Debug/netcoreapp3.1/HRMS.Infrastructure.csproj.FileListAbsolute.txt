@@ -1,0 +1,17 @@
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Infrastructure.deps.json
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Infrastructure.runtimeconfig.json
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Infrastructure.runtimeconfig.dev.json
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Infrastructure.dll
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Infrastructure.pdb
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Application.dll
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Domain.dll
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Application.pdb
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\bin\Debug\netcoreapp3.1\HRMS.Domain.pdb
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.csproj.CopyComplete
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.dll
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.pdb
+C:\Users\Yonathan\Desktop\tohey_experimental\TOHEY.HRMS\TOHEY.HRMS.Infrastructure\obj\Debug\netcoreapp3.1\HRMS.Infrastructure.genruntimeconfig.cache
