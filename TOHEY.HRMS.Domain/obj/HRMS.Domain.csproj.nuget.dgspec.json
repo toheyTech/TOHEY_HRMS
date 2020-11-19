@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj": {}
+    "D:\\Tohey\\core\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj": {}
   },
   "projects": {
-    "E:\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj": {
+    "D:\\Tohey\\core\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj",
+        "projectUniqueName": "D:\\Tohey\\core\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj",
         "projectName": "HRMS.Domain",
-        "projectPath": "E:\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj",
-        "packagesPath": "C:\\Users\\Dev-01\\.nuget\\packages\\",
-        "outputPath": "E:\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\obj\\",
+        "projectPath": "D:\\Tohey\\core\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\HRMS.Domain.csproj",
+        "packagesPath": "C:\\Users\\dev-02.TOHEYD.002\\.nuget\\packages\\",
+        "outputPath": "D:\\Tohey\\core\\TOHEY_HRMS\\TOHEY_HRMS\\TOHEY.HRMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dev-01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dev-02.TOHEYD.002\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
